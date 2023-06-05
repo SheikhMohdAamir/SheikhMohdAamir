@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SheikhMohdAamir
+- 💞️ I’m looking to collaborate with other developers...
+- 📫 You can reach me at 'toaamirsheikh@gmail.com'.
